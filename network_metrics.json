@@ -1,0 +1,235 @@
+{
+"globalMetrics": {
+  "totalPackets": 459,
+  "tcpPackets": 342,
+  "udpPackets": 117,
+  "totalBytes": 227778
+},
+"connections": [
+  {
+    "connection": "13.107.5.93 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 6,
+    "totalBytes": 360,
+    "duration": 193,
+    "flowRate": 0.0310881,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "13.66.142.100 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 8,
+    "totalBytes": 555,
+    "duration": 185,
+    "flowRate": 0.0432432,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "13.89.179.13 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 26,
+    "totalBytes": 11811,
+    "duration": 194,
+    "flowRate": 0.134021,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "142.250.185.46 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 66,
+    "totalBytes": 45983,
+    "duration": 184,
+    "flowRate": 0.358696,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "152.199.19.160 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 1,
+    "totalBytes": 60,
+    "duration": 193,
+    "flowRate": 0.00518135,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "192.168.100.114 -> 13.107.5.93",
+    "domain": "",
+    "totalPackets": 6,
+    "totalBytes": 324,
+    "duration": 193,
+    "flowRate": 0.0310881,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 13.66.142.100",
+    "domain": "",
+    "totalPackets": 11,
+    "totalBytes": 687,
+    "duration": 185,
+    "flowRate": 0.0594595,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "192.168.100.114 -> 13.89.179.13",
+    "domain": "",
+    "totalPackets": 15,
+    "totalBytes": 27732,
+    "duration": 194,
+    "flowRate": 0.0773196,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 142.250.185.46",
+    "domain": "",
+    "totalPackets": 58,
+    "totalBytes": 20715,
+    "duration": 184,
+    "flowRate": 0.315217,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 152.199.19.160",
+    "domain": "",
+    "totalPackets": 2,
+    "totalBytes": 108,
+    "duration": 193,
+    "flowRate": 0.0103627,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 204.79.197.222",
+    "domain": "",
+    "totalPackets": 4,
+    "totalBytes": 216,
+    "duration": 172,
+    "flowRate": 0.0232558,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 216.24.57.4",
+    "domain": "",
+    "totalPackets": 12,
+    "totalBytes": 648,
+    "duration": 165,
+    "flowRate": 0.0727273,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 224.0.0.251",
+    "domain": "",
+    "totalPackets": 3,
+    "totalBytes": 246,
+    "duration": 183,
+    "flowRate": 0.0163934,
+    "applicationProtocol": ""
+  },
+  {
+    "connection": "192.168.100.114 -> 34.223.45.63",
+    "domain": "",
+    "totalPackets": 34,
+    "totalBytes": 17118,
+    "duration": 186,
+    "flowRate": 0.182796,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 40.79.173.41",
+    "domain": "",
+    "totalPackets": 11,
+    "totalBytes": 6334,
+    "duration": 188,
+    "flowRate": 0.0585106,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 52.138.229.66",
+    "domain": "",
+    "totalPackets": 22,
+    "totalBytes": 29783,
+    "duration": 193,
+    "flowRate": 0.11399,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 52.168.117.170",
+    "domain": "",
+    "totalPackets": 18,
+    "totalBytes": 12576,
+    "duration": 191,
+    "flowRate": 0.0942408,
+    "applicationProtocol": "HTTPS"
+  },
+  {
+    "connection": "192.168.100.114 -> 8.8.8.8",
+    "domain": "",
+    "totalPackets": 14,
+    "totalBytes": 1114,
+    "duration": 192,
+    "flowRate": 0.0729167,
+    "applicationProtocol": ""
+  },
+  {
+    "connection": "204.79.197.222 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 5,
+    "totalBytes": 300,
+    "duration": 172,
+    "flowRate": 0.0290698,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "216.24.57.4 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 12,
+    "totalBytes": 720,
+    "duration": 165,
+    "flowRate": 0.0727273,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "34.223.45.63 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 58,
+    "totalBytes": 22585,
+    "duration": 186,
+    "flowRate": 0.311828,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "40.79.173.41 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 9,
+    "totalBytes": 5715,
+    "duration": 187,
+    "flowRate": 0.0481283,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "52.138.229.66 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 27,
+    "totalBytes": 8665,
+    "duration": 194,
+    "flowRate": 0.139175,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "52.168.117.170 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 17,
+    "totalBytes": 11364,
+    "duration": 191,
+    "flowRate": 0.0890052,
+    "applicationProtocol": "Unknown"
+  },
+  {
+    "connection": "8.8.8.8 -> 192.168.100.114",
+    "domain": "",
+    "totalPackets": 14,
+    "totalBytes": 2059,
+    "duration": 192,
+    "flowRate": 0.0729167,
+    "applicationProtocol": ""
+  }
+]
+}
